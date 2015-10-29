@@ -1,0 +1,9 @@
+## Interface: 60200
+## Title: gMissions
+## Notes: Mission Data Aggregator.
+## Author: tdtd
+## Version: 0.1
+
+embeds.xml
+
+main.lua
